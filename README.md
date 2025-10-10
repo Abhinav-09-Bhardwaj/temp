@@ -1,1 +1,4 @@
-# temp
+When I joined this team as a fresher - my first corporate project — I honestly didn’t know what to expect. But this team turned out completely different from what I’d heard elsewhere. Everyone, including Eric and Tedd, was so open to ideas and discussions. There was never that strict “do it this way” kind of approach, which really gave me the freedom to explore, experiment, and learn — the kind of exposure that usually takes years to get.
+Lisa has been my go-to for almost everything - business or technical. I’m someone who doesn’t follow blindly; I like to understand the reasons, benefits, and disadvantages. And that’s what I really liked about her — she always explained the “why,” not just the “what,” and even shared articles to help me understand things better.
+Jason helped me a lot on deployments, environments, and Git strategies, always explaining the reasoning behind things. And Bikash also guided me during the export functionality - his inputs really helped.
+Overall, it’s been a great learning experience working with such a supportive and collaborative team, and I’ll definitely carry these lessons forward.
