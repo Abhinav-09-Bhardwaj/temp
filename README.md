@@ -4,7 +4,7 @@ I joined this team as a fresher and I’d heard all kinds of client stories from
 
 I want to thank Lisa also, she has been my go-to lead for almost everything either it is business related or technical stuffs bcoz I’m someone who doesn’t really follow blindly, you can say I'm not a good follower in that sense; but I try to understand the reasons first. And, that’s what I got in discussions with her, she always explained the “why”, not just the “what” and even she used to share online articles to help me understand things more deeply.
 
-And same goes with Jason also, he has helped me a lot whether it is related to code changes, deployments, environments, Git, github, bitbucket, etc. He always explained things with what's happening behind & how we'll be or how we should be tackling it. 
+And same goes with Jason also, he has been a huge help whether it was with code changes, deployments, environments, Git, github, bitbucket, etc, he always explained things with what's happening behind & how we'll be or how we should be tackling it. 
 
 so thank you so much Lisa & Jason.
 
@@ -12,7 +12,7 @@ I'll also thank Bikash who really guided me a lot, specially with those SPOS dur
 
 so Thank you Bikash
 
-Also, I don't want to miss Greg, as he is not with our team right now, but he had also helped me a lot with DB related stuffs, so thanks to him as well.
+Also, I don't want to miss Greg, as he is not with our team right now, but he had supported me significantly with DB related stuffs, so thanks to him as well.
 
 And from offshore, a big thanks to Suhas & Akshay — I can’t list everything in single call, but they’ve truly been my support system here.
 
