@@ -1,9 +1,21 @@
-When I joined this team as a fresher - my first corporate project — I honestly didn’t know what to expect. But this team turned out completely different from what I’d heard elsewhere. Everyone, including Eric and Tedd, was so open to ideas and discussions. There was never that strict “do it this way” kind of approach, which really gave me the freedom to explore, experiment, and learn — the kind of exposure that usually takes years to get.
+I'll just take 2-3 minutes to thank everyone here or may be few more minutes as I'll go one by one. 
 
-Lisa has been my go-to for almost everything - business or technical. I’m someone who doesn’t follow blindly; I like to understand the reasons, benefits, and disadvantages. And that’s what I really liked about her — she always explained the “why,” not just the “what,” and even shared articles to help me understand things better.
+I joined this team as a fresher and I’d heard all kinds of client stories from others, but this team was completely different. Here, everyone, including Sarav, Eric, Tedd & everyone, was so open to ideas & discussions. Like there was never that strict “do it this way” approach here, & it really gave me the freedom to explore, & learn. Also, the kind of exposure I got here in less than 2 years, I feel like it usually takes years to get. So thank u, thank u so much Eric, Sarav 7and Tedd for giving me that freedom to play at my strike rate.
 
-Jason helped me a lot on deployments, environments, and Git strategies, always explaining the reasoning behind things. 
+I want to thank Lisa also, she has been my go-to lead for almost everything either it is business related or technical stuffs bcoz I’m someone who doesn’t really follow blindly, you can say I'm not a good follower in that sense; but I try to understand the reasons first. And, that’s what I got in discussions with her, she always explained the “why”, not just the “what” and even she used to share online articles to help me understand things more deeply.
 
-And Bikash also guided me during the export functionality - his inputs really helped.
+And same goes with Jason also, he has helped me a lot whether it is related to code changes, deployments, environments, Git, github, bitbucket, etc. He always explained things with what's happening behind & how we'll be or how we should be tackling it. 
 
-Overall, it’s been a great learning experience working with such a supportive and collaborative team, and I’ll definitely carry these lessons forward.
+so thank you so much Lisa & Jason.
+
+I'll also thank Bikash who really guided me a lot, specially with those SPOS & other stuffs during that export functionality, like his inputs really helped me in tackling the issues I faced while working on that.
+
+so Thank you Bikash
+
+Also, I don't want to miss Greg, as he is not with our team right now, but he had also helped me a lot with DB related stuffs, so thanks to him as well.
+
+And from offshore, a big thanks to Suhas & Akshay — I can’t list everything in single call, but they’ve truly been my support system here.
+
+I think I already took so much time so I'll just close here, it’s been a great experience working with such a supportive and collaborative team. thank you, thank you so much each and everyone from onsite and from offshore as well, for all those learnings I got bcoz of you, I’ll definitely carry all those good or bad lessons forward with me. 
+
+Thank you so much!
