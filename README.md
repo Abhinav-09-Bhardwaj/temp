@@ -8,7 +8,7 @@ And same goes with Jason also, he has helped me a lot whether it is related to c
 
 so thank you so much Lisa & Jason.
 
-I'll also thank Bikash who really guided me a lot, specially with those SPOS & other stuffs during that export functionality, like his inputs really helped me in tackling the issues I faced while working on that.
+I'll also thank Bikash who really guided me a lot, specially with those SPOS during that export functionality, like his inputs really helped me in tackling the issues I faced while working on that.
 
 so Thank you Bikash
 
